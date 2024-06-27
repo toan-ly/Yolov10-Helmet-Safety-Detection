@@ -94,10 +94,13 @@ streamlit run app.py
         └── image_processing.py
 ```
 
-## [Demo](https://helmet-detect.streamlit.app/)
-Click "Demo" to start Streamlit application
-
-Here are some of the test outputs:
+## Demo
+Here is the streamlit demo:
+<p align='center'>
+    <img src='./assets/images/demo.png' height='90%' width='90%'
+</p>
+    
+Here are some of the test outputs after inference:
 <p align='center'>
   <img src='./assets/output_images/helmet-57-_jpg.rf.011042b64595377970edee043e9303b2_pred.png' height='90%' width='90%'
 </p>
