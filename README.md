@@ -98,13 +98,13 @@ streamlit run app.py
 Click "Demo" to start Streamlit application
 Here are some of the test outputs:
 <p align='center'>
-  <img src='./assets/helmet-57-_jpg.rf.011042b64595377970edee043e9303b2_pred.png' height='90%' width='90%'
+  <img src='./assets/output_images/helmet-57-_jpg.rf.011042b64595377970edee043e9303b2_pred.png' height='90%' width='90%'
 </p>
 <p align='center'>
-  <img src='./assets/helmet-83-_jpg.rf.8ad6553dec2b861de5cf7c8ec58203e3_pred.png' height='90%' width='90%'
+  <img src='./assets/output_images/helmet-83-_jpg.rf.8ad6553dec2b861de5cf7c8ec58203e3_pred.png' height='90%' width='90%'
 </p>
 <p align='center'>
-  <img src='./assets/helmet-486-_jpg.rf.92a01c512c6cc820a3075c31518923e2_pred.png' height='90%' width='90%'
+  <img src='./assets/output_images/helmet-486-_jpg.rf.92a01c512c6cc820a3075c31518923e2_pred.png' height='90%' width='90%'
 </p>
 
 ## License
