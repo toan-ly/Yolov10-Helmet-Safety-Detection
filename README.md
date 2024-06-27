@@ -96,6 +96,7 @@ streamlit run app.py
 
 ## [Demo](https://helmet-detect.streamlit.app/)
 Click "Demo" to start Streamlit application
+
 Here are some of the test outputs:
 <p align='center'>
   <img src='./assets/output_images/helmet-57-_jpg.rf.011042b64595377970edee043e9303b2_pred.png' height='90%' width='90%'
